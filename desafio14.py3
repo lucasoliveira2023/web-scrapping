@@ -35,3 +35,5 @@ def download_file(filename):
 
 #inicia o flask server
 app.run(host='0.0.0.0')
+
+#adicionando comentariao
